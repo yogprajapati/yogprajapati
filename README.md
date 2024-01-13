@@ -8,6 +8,5 @@
 ## 🧰 Skills & Tools:
 
 - **Languages**: Java, C++, C, PHP, JavaScript
-- **Tools**: Git
 
 > "Life is about continuous learning. Stay curious!" - Yog
