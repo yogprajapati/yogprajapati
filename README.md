@@ -7,7 +7,20 @@
 
 ## 🧰 Skills & Tools:
 
-- **Languages**: C,C++,Java,PHP,Javascript,Node.js,Express.js
-- **Database**: Mysql,MongoDB
+- **Languages**:
+ ```
+-C
+-C++
+-Java
+-PHP
+-Javascript
+-Node.js
+-Express.js
+ '''
+- **Database**:
+  ```
+  - Mysql
+  - MongoDB
+  ```
 
 > "Life is about continuous learning. Stay curious!" - Yog
