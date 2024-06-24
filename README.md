@@ -9,7 +9,7 @@
 
 - **Languages**:
  ```
-- **C
+- **C**
 - C++
 - Java
 - PHP
