@@ -9,14 +9,14 @@
 
 - **Languages**:
  ```
--C
--C++
--Java
--PHP
--Javascript
--Node.js
--Express.js
- '''
+- C
+- C++
+- Java
+- PHP
+- Javascript
+- Node.js
+- Express.js
+ ```
 - **Database**:
   ```
   - Mysql
