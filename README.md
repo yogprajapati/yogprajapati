@@ -18,9 +18,11 @@
 - C++
 - Java
 - PHP
+- JSP
 - Javascript
 - Node.js
 - Express.js
+- EJS
  ```
 - **Database**:
 ```
