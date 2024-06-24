@@ -9,7 +9,7 @@
 
 - **Languages**:
  ```
-- C:
+- C
 - C++
 - Java
 - PHP
@@ -22,5 +22,9 @@
 - Mysql
 - MongoDB
 ```
-
+- **Tools**:
+```
+- VS CODE
+- Replit
+``` 
 > "Life is about continuous learning. Stay curious!" - Yog
