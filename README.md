@@ -9,7 +9,7 @@
 
 - **Languages**:
  ```
-- C
+- **C
 - C++
 - Java
 - PHP
@@ -18,9 +18,9 @@
 - Express.js
  ```
 - **Database**:
-  ```
-  - Mysql
-  - MongoDB
-  ```
+```
+- Mysql
+- MongoDB
+```
 
 > "Life is about continuous learning. Stay curious!" - Yog
