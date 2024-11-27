@@ -51,3 +51,6 @@ Here are some of my notable projects:
 ## 👀 Profile Views
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yogprajapati.visitor-badge)
 
+![Visitor Badge](https://img.shields.io/badge/visitor%20count-dynamic-brightgreen)
+
+
