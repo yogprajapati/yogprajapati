@@ -49,5 +49,5 @@ Here are some of my notable projects:
 > "Life is about continuous learning. Stay curious!" - Yog
 
 ## 👀 Profile Views
-https://visitor-badge.glitch.me/badge?page_id=yogprajapati.yogprajapati
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=yogprajapati.yogprajapati)
 
