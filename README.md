@@ -13,7 +13,7 @@ I'm diving deep into programming and looking forward to contributing to real-wor
 
 ## 🧰 Skills & Tools
 ### 💻 Languages
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" width="30" />
 - C++
 - Java
 - PHP
