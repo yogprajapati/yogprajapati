@@ -12,7 +12,7 @@
 I'm diving deep into programming and looking forward to contributing to real-world projects. Always excited to collaborate on GitHub projects. Want to chat? [Drop me an email](mailto:yogprajapati08@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yogprajapati).
 
 ## 🧰 Skills & Tools
-### <img src="https://cdn-icons-png.flaticon.com/512/10438/10438277.png" width="30" /> Technical skills
+### <img src="https://cdn-icons-png.flaticon.com/512/10438/10438277.png" width="40" /> Technical skills
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" width="30" />
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="30" />
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="30" />
