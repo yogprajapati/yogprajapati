@@ -70,10 +70,10 @@
 ---
 
 ## 🚀 Projects
-- **[Ipharm](link_to_your_project)** - AI-powered pharmaceutical platform.
-- **[Event Management System](link_to_your_project)** - Manage and organize events.
-- **[Hotel Management System](link_to_your_project)** - Efficient hotel operations management.
-- **[Tutorial-Hub](link_to_your_project)** - Learning and tutorial sharing platform.
+- **[Ipharm](https://github.com/yogprajapati/ipharm---Ecommerce-Pharmacy-Platform)** - AI-powered pharmaceutical platform.
+- **[Event Management System](https://github.com/yogprajapati/EventManagementSystem)** - Manage and organize events.
+- **[Hotel Management System](https://github.com/yogprajapati/HotelManagementSystem)** - Efficient hotel operations management.
+- **[Tutorial-Hub](https://github.com/yogprajapati/Tutorial-Hub)** - Learning and tutorial sharing platform.
 
 ---
 
