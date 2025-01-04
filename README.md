@@ -83,6 +83,7 @@
 ## 🌱 Currently Learning
 - AI/ML and Python-based recommendation systems.
 - Real-time web development using MERN Stack.
+- App Development using Flutter & Dart.
 
 ---
 
