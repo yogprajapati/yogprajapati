@@ -9,7 +9,7 @@
   <a href="mailto:yogprajapati08@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://yogprajapati.dev">
+    <a href="https://yog.zentor.site">
     <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science and Engineering**  
-  GLS University, Ahmedabad (3rd Year)
+  GLS University, Ahmedabad (final Year)
 - 🎓 **Diploma in Computer Engineering**  
   Gujarat Technological University (GTU)
 - 🔍 Passionate about software development, web technologies, and AI/ML.
