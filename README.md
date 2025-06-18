@@ -69,7 +69,8 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔬 [iPharm](https://github.com/yogprajapati/iPharm) | AI-powered pharmacy platform with real-time inventory, pin-code based delivery, seller/admin dashboards & recommendation system |
+| 🔬 [Intellixor - AI Tools Directory](https://intellixor.vercel.app) | Discover, explore, and review the latest AI tools with categories, bookmarking, admin panel, authentication, and SEO optimization |
+| 💊 [iPharm](https://ipharm.vercel.app) | AI-powered pharmacy platform with real-time inventory, pin-code-based medicine visibility, recommendation engine, and Razorpay payments |
 | 📅 [Event Management System](https://github.com/yogprajapati/EventManagementSystem) | Robust event management and registration portal |
 | 🏨 [Hotel Management System](https://github.com/yogprajapati/HotelManagementSystem) | Efficient hotel booking and operations management |
 | 📚 [Tutorial-Hub](https://github.com/yogprajapati/Tutorial-Hub) | Share and manage educational content with authentication and dashboard |
