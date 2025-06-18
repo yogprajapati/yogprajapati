@@ -1,70 +1,83 @@
-<h1 align="center">Hi there, I'm Yog Prajapati! 👋</h1>
+<h1 align="center">👋 Hey there, I'm Yog Prajapati</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yogprajapati">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yogprajapati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YogPrajapati">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/yogprajapati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yogprajapati08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:yogprajapati08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://yog.zentor.site">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" />
+  <a href="https://yog.zentor.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech in Computer Science and Engineering**  
-  GLS University, Ahmedabad (final Year)
-- 🎓 **Diploma in Computer Engineering**  
-  Gujarat Technological University (GTU)
-- 🔍 Passionate about software development, web technologies, and AI/ML.
-- 💬 Ask me about **MERN Stack, Python, AI/ML, and Real-time Web Apps**.
-- 📫 [Drop me an email](mailto:yogprajapati08@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yogprajapati).
+
+🎓 Final Year **B.Tech CSE** @ GLS University, Ahmedabad  
+🎓 Diploma in Computer Engineering @ GTU  
+💡 Passionate about full-stack development, AI/ML, and building impactful real-time web apps  
+🧠 Always exploring new tech, frameworks, and dev workflows  
+📫 [Email me](mailto:yogprajapati08@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yogprajapati)
 
 ---
 
-## 🛠️ Skills & Tools
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend & Backend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0F9D58?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-%23F26207.svg?style=flat-square&logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-</p>
+### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Currently Exploring
+
+- 🤖 Machine Learning & Recommendation Systems using Python  
+- 🌍 Real-Time & Scalable Web Apps with MERN  
+- 📱 App Development using Flutter + Dart
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔬 [iPharm](https://github.com/yogprajapati/iPharm) | AI-powered pharmacy platform with real-time inventory, pin-code based delivery, seller/admin dashboards & recommendation system |
+| 📅 [Event Management System](https://github.com/yogprajapati/EventManagementSystem) | Robust event management and registration portal |
+| 🏨 [Hotel Management System](https://github.com/yogprajapati/HotelManagementSystem) | Efficient hotel booking and operations management |
+| 📚 [Tutorial-Hub](https://github.com/yogprajapati/Tutorial-Hub) | Share and manage educational content with authentication and dashboard |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogPrajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YogPrajapati&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -72,23 +85,15 @@
 
 ---
 
-## 🚀 Projects
-- **[Ipharm](https://github.com/yogprajapati/ipharm---Ecommerce-Pharmacy-Platform)** - AI-powered pharmaceutical platform.
-- **[Event Management System](https://github.com/yogprajapati/EventManagementSystem)** - Manage and organize events.
-- **[Hotel Management System](https://github.com/yogprajapati/HotelManagementSystem)** - Efficient hotel operations management.
-- **[Tutorial-Hub](https://github.com/yogprajapati/Tutorial-Hub)** - Learning and tutorial sharing platform.
+## 🔍 Let's Connect
 
----
-
-## 🌱 Currently Learning
-- AI/ML and Python-based recommendation systems.
-- Real-time web development using MERN Stack.
-- App Development using Flutter & Dart.
+If you'd like to collaborate on a project, need help, or just want to chat tech:
+- ✉️ Mail: [yogprajapati08@gmail.com](mailto:yogprajapati08@gmail.com)
+- 🌐 Portfolio: [yog.zentor.site](https://yog.zentor.site)
+- 💼 LinkedIn: [Yog Prajapati](https://www.linkedin.com/in/yogprajapati)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yogprajapati" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yogprajapati" alt="visitor badge"/>
 </p>
-```
-
