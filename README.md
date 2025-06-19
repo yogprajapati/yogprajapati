@@ -7,7 +7,7 @@
   <a href="https://github.com/yogprajapati" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yogprajapati08@gmail.com" target="_blank">
+  <a href="mailto:yog.devmail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yog.zentor.site" target="_blank">
@@ -23,7 +23,7 @@
 🎓 Diploma in Computer Engineering @ GTU  
 💡 Passionate about full-stack development, AI/ML, and building impactful real-time web apps  
 🧠 Always exploring new tech, frameworks, and dev workflows  
-📫 [Email me](mailto:yogprajapati08@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yogprajapati)
+📫 [Email me](mailto:yog.devmail@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yogprajapati)
 
 ---
 
@@ -89,7 +89,7 @@
 ## 🔍 Let's Connect
 
 If you'd like to collaborate on a project, need help, or just want to chat tech:
-- ✉️ Mail: [yogprajapati08@gmail.com](mailto:yogprajapati08@gmail.com)
+- ✉️ Mail: [yog.devmail@gmail.com](mailto:yog.devmail@gmail.com)
 - 🌐 Portfolio: [yog.zentor.site](https://yog.zentor.site)
 - 💼 LinkedIn: [Yog Prajapati](https://www.linkedin.com/in/yogprajapati)
 
