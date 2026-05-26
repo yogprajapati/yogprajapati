@@ -10,7 +10,7 @@
   <a href="mailto:yog.devmail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yog.zentor.site" target="_blank">
+  <a href="https://yogprajapati.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
